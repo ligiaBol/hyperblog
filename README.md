@@ -4,7 +4,7 @@ Un blog encreíble para el [curso de Git y Github](https://platzi.com/cursos/git
 
 > - niñita
 
-##En este curso vemos de todo:
+**En este curso vemos de todo:
 * Todos los omandos de git
 * El flujo de trabajo de GitHub
 * El verdadero amor por las buenas prácticas
